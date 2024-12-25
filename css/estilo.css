@@ -1,0 +1,65 @@
+
+.botao{
+    color:white;
+    background: purple;
+    margin-left: -300px;
+    margin-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius:50px;
+    text-decoration: none;
+}
+
+h3{
+    text-align:center
+}
+.img{
+    border-radius: 50px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.cabeçalho{
+    margin-right: 10px;
+}
+.menu{
+    
+    overflow: hidden;
+    margin-left: 30px;
+    border-radius: 60px;
+}
+.menu a {
+    color: rgb(117, 77, 77);
+    padding: 14px 16px;
+    float: right;
+    display: block;
+    text-decoration: none;
+    background-color: yellow;
+    border-radius: 30px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    padding-top: 8px;
+    
+    
+}
+.menu a:hover{
+    background-color: purple;
+    color: white;
+}
+.topo{
+    background-color: gray;
+}
+hr{
+    margin-top: 20px;
+}
+h2{
+    margin-bottom: -15px;
+}
+img{
+    margin-left: 340px;
+    margin-top: -28px;
+}

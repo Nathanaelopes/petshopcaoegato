@@ -1,0 +1,40 @@
+body{
+    background-color: #c5bdb8;
+}
+h1{
+    color: white;
+    margin-top: 70px;
+    margin-left: 70px;
+
+}
+h3{
+    color:white;
+    margin-left: 100px;
+    padding-right: 600px;
+    text-align: left;
+}
+.botao{
+    background-color: rgb(110, 100, 100);
+    color:white;
+    border-radius: 50px;
+    text-decoration: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.img{
+    margin-left: 830px;
+    margin-top: -310px;
+    border-radius: 30px;
+}
+hr{
+    padding: 17px;
+    background-color: rgb(175, 172, 168);
+}
+.img:hover{
+background-position: left center;
+background-size: 450px;
+}

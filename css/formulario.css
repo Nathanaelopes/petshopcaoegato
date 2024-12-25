@@ -1,0 +1,23 @@
+body{
+    background: white;
+    text-align:center;
+h1{
+    color:black;
+
+}
+label{
+    color:black;
+    text-align-last: left;
+}
+.nome{
+    text-align:center;
+    color:black
+}
+.cancelar{
+    background: rgb(95, 97, 95);
+    color:white;
+    border-radius:50px;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
